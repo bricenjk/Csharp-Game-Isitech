@@ -1,0 +1,15 @@
+/Users/bricenjomkam/Documents/temp/bin/Debug/net6.0/temp
+/Users/bricenjomkam/Documents/temp/bin/Debug/net6.0/temp.deps.json
+/Users/bricenjomkam/Documents/temp/bin/Debug/net6.0/temp.runtimeconfig.json
+/Users/bricenjomkam/Documents/temp/bin/Debug/net6.0/temp.dll
+/Users/bricenjomkam/Documents/temp/bin/Debug/net6.0/temp.pdb
+/Users/bricenjomkam/Documents/temp/obj/Debug/net6.0/temp.csproj.AssemblyReference.cache
+/Users/bricenjomkam/Documents/temp/obj/Debug/net6.0/temp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bricenjomkam/Documents/temp/obj/Debug/net6.0/temp.AssemblyInfoInputs.cache
+/Users/bricenjomkam/Documents/temp/obj/Debug/net6.0/temp.AssemblyInfo.cs
+/Users/bricenjomkam/Documents/temp/obj/Debug/net6.0/temp.csproj.CoreCompileInputs.cache
+/Users/bricenjomkam/Documents/temp/obj/Debug/net6.0/temp.dll
+/Users/bricenjomkam/Documents/temp/obj/Debug/net6.0/refint/temp.dll
+/Users/bricenjomkam/Documents/temp/obj/Debug/net6.0/temp.pdb
+/Users/bricenjomkam/Documents/temp/obj/Debug/net6.0/temp.genruntimeconfig.cache
+/Users/bricenjomkam/Documents/temp/obj/Debug/net6.0/ref/temp.dll
