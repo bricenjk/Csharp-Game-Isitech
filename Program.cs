@@ -32,6 +32,14 @@ namespace LeJustePrix
                 }
     
             }
+            Console.Write("Do you want to continue? (Y/N) ");
+                var response = Console.ReadLine();
+                if (response == "Y")
+                {
+                    Main(args);
+                }else{
+                    Console.Write("Goodbye!!");
+                }
     }
   
     class Game
@@ -79,8 +87,7 @@ namespace LeJustePrix
         {
             return _numGuesses > _maxGuesses;
         }
-        
-    
+
       
     }
 }
