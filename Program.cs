@@ -9,9 +9,29 @@ namespace LeJustePrix
             
             var game = new Game();
             game.Init();
-
+            while (true)
+            {
+                // Prompt the user to make a guess
+                Console.Write("Enter your guess: ");
+        
+                var guess = int.Parse(Console.ReadLine());
+                
+                var result = game.ValidateGuess(guess);
+                
+                Console.WriteLine(result);
+                
+                if (game.HasWon(guess))
+                {
+                    Console.WriteLine("Congratulations! You have won the game!");
+                    break;
+                }
+                else if (game.HasLost())
+                {
+                    Console.WriteLine("Sorry, you have lost the game. Better luck next time!");
+                    break;
+                }
     
-    }
+            }
     }
   
     class Game
@@ -49,10 +69,21 @@ namespace LeJustePrix
                 return "Your guess is too high. Try again.";
             }
         }
+
+        public bool HasWon(int guess)
+        {
+            return _numGuesses > 0 && _numGuesses <= _maxGuesses && guess == _price;
+        }
+        
+        public bool HasLost()
+        {
+            return _numGuesses > _maxGuesses;
+        }
         
     
       
     }
+}
 }
 
 
