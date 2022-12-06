@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/bricenjomkam/Documents/temp/temp.csproj",
+      "projectUniqueName": "/Users/bricenjomkam/Csharp-Game-Isitech/temp.csproj",
       "projectName": "temp",
-      "projectPath": "/Users/bricenjomkam/Documents/temp/temp.csproj",
+      "projectPath": "/Users/bricenjomkam/Csharp-Game-Isitech/temp.csproj",
       "packagesPath": "/Users/bricenjomkam/.nuget/packages/",
-      "outputPath": "/Users/bricenjomkam/Documents/temp/obj/",
+      "outputPath": "/Users/bricenjomkam/Csharp-Game-Isitech/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/bricenjomkam/.nuget/NuGet/NuGet.Config"

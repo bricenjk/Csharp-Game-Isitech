@@ -8,9 +8,9 @@ namespace LeJustePrix
         {
             
             var game = new Game();
-            game.ValidateGuess();
-            
-         
+            game.Init();
+
+    
     }
     }
   
